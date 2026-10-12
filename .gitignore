@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+mlb.db
+.DS_Store
+*.log
